@@ -1,0 +1,3 @@
+@section('master-js')
+
+@show
