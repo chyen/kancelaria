@@ -17,7 +17,7 @@
 
     </div>
     <div class="col-sm-12">
-        <div class="col-sm-9">
+        <div class="col-sm-8">
             <div class="panel panel-default panel-content">
                 <p><b>Kancelaria Adwokacka Pawelczyk</b> Adwokata Janusza Pawelczyk świadczy pomoc prawną,
                     obejmującą swym zakresem większość dziedzin obwiązującego prawa dla podmiotów gospodarczych
@@ -28,7 +28,7 @@
                 <p>Udzielamy pomocy prawnej na każdym etapie postępowania, zarówno przed Sądami i innymi organami państwowymi oraz samorządowymi.</p>
             </div>
         </div>
-        <div class="col-sm-3">
+        <div class="col-sm-4">
             <div class="panel panel-default panel-contact">
                 <div class="contact-text">
                     <p><b>Dane kontakowe: </b></p>
