@@ -9,8 +9,8 @@ body {
     
 }
 .panel-content {
-    margin-top: 20px;
-    height: 200px;
+    margin-top: 3em;
+    height: 20em;
     background-color: #d0dad6;
     border: none;
     text-align: justify;
@@ -19,7 +19,7 @@ body {
 
 .panel-contact {
     background-color: #154734;
-    margin-top: 20px;
+    margin-top: 2em;
     height: auto;
     text-align: center;
     border: none;
@@ -27,9 +27,8 @@ body {
 }
 
 .contact-text {
-    padding: 20px 0 20px 0;
+    padding: 2em 0 2em 0;
 }
-
 
 .address{
     padding: 0 0 0 0;
@@ -38,10 +37,10 @@ body {
     color: white;
     font-size: 26px;
     text-align: center;
-    padding: 45px;
+    padding: 1.7em;
 }
 .extended-title {
-    font-size: 14px;
+    font-size: 0.6em;
     font-style: italic
 }
 
