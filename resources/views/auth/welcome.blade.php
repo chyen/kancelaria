@@ -19,11 +19,12 @@
     <div class="col-sm-12">
         <div class="col-sm-9">
             <div class="panel panel-default panel-content">
-                <p>Kancelaria Adwokacka Pawelczyk Adwokata Janusza Pawelczyk świadczy pomoc prawną,
-                    obejmującej swym zakresem większość dziedzin obwiązującego prawa dla podmiotów gospodarczych
+                <p><b>Kancelaria Adwokacka Pawelczyk</b> Adwokata Janusza Pawelczyk świadczy pomoc prawną,
+                    obejmującą swym zakresem większość dziedzin obwiązującego prawa dla podmiotów gospodarczych
                     oraz osób prywatnych ceniących sobie bezpieczeństwo, komfort, jak również dyskrecję w realizacji powierzonych zadań.
                 </p>
                 <p>Specjalizujemy się w prawie karnym, ze szczególnym uwzględnieniem szerokorozumianej dziedziny prawa gospodarczego.</p>
+                <p>Atutem kancelarii jest połączenie wiedzy z wieloletnim doświadczeniem praktycznym oraz współpracą z renomowanymi kancelariami w polsce.</p>
                 <p>Udzielamy pomocy prawnej na każdym etapie postępowania, zarówno przed Sądami i innymi organami państwowymi oraz samorządowymi.</p>
             </div>
         </div>

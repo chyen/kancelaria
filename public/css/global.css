@@ -13,7 +13,7 @@ body {
     height: 200px;
     background-color: #d0dad6;
     border: none;
-    justify-content: center;
+    text-align: justify;
 }
 
 .panel-contact {
@@ -35,9 +35,9 @@ body {
 }
 .main-panel-title {
     color: white;
-    font-size: 23px;
+    font-size: 26px;
     text-align: center;
-    padding: 50px;
+    padding: 45px;
 }
 .extended-title {
     font-size: 14px;
