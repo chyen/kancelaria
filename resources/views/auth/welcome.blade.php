@@ -24,7 +24,7 @@
                     oraz osób prywatnych ceniących sobie bezpieczeństwo, komfort, jak również dyskrecję w realizacji powierzonych zadań.
                 </p>
                 <p>Specjalizujemy się w prawie karnym, ze szczególnym uwzględnieniem szerokorozumianej dziedziny prawa gospodarczego.</p>
-                <p>Atutem kancelarii jest połączenie wiedzy z wieloletnim doświadczeniem praktycznym oraz współpracą z renomowanymi kancelariami w polsce.</p>
+                <p>Atutem kancelarii jest połączenie wiedzy z wieloletnim doświadczeniem praktycznym oraz współpracą z renomowanymi kancelariami prawnymi w Polsce.</p>
                 <p>Udzielamy pomocy prawnej na każdym etapie postępowania, zarówno przed Sądami i innymi organami państwowymi oraz samorządowymi.</p>
             </div>
         </div>

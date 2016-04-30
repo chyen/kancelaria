@@ -14,6 +14,7 @@ body {
     background-color: #d0dad6;
     border: none;
     text-align: justify;
+    -webkit-box-shadow: none !important;
 }
 
 .panel-contact {
