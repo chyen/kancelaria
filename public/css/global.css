@@ -44,4 +44,36 @@ body {
     font-style: italic
 }
 
+//media rules
 
+@media screen and (max-width: 480px)  
+{         
+    .main-panel-title {
+        font-size: 18px;
+        padding: 1em;
+    }
+}  
+
+@media screen and (max-width: 720px)  
+{         
+    .main-panel-title {
+        font-size: 18px;
+        padding: 1em;
+    }
+}  
+
+@media screen and (max-width: 800px)  
+{         
+    .main-panel-title {
+        font-size: 18px;
+        padding: 1em;
+    }
+}  
+
+@media screen and (max-width: 1024px)  
+{         
+    .main-panel-title {
+        font-size: 18px;
+        padding: 1em;
+    }
+}  
