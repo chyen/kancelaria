@@ -8,7 +8,6 @@
 <div class='container'>
     <div class='col-sm-12'>
         <div class="panel panel-default panel-main">
-            <div class="exp"></div>
             <div class="main-panel-title">
                 <div>Kancelaria Adwokacka Pawelczyk</div>
                 <div class="extended-title">In criminalibus probationes debent esse luce clariones</div>

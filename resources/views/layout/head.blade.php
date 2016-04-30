@@ -12,6 +12,8 @@
     <meta content="Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..." name="description" />
     <meta content="Kancelaria Adwokacka Pawelczyk Adwokata Janusza Pawelczyk świadczy pomoc prawną,
           obejmującą swym zakresem większość dziedzin obwiązującego prawa dla podmiotów gospodarczych
-          oraz osób prywatnych ceniących sobie bezpieczeństwo, komfort, jak również dyskrecję w realizacji powierzonych zadań. Adwokat Pawelczyk Prawo Karne Adwokat Ostrołęka ostroleka kancelaria adwokacka" name="keywords"/>
+          oraz osób prywatnych ceniących sobie bezpieczeństwo, komfort, jak również dyskrecję w realizacji powierzonych zadań.
+          Adwokat Pawelczyk Prawo Karne Adwokat Ostrołęka ostroleka kancelaria adwokacka" name="keywords"/>
+    <meta name="viewport" content="width=device-width">
 </head>
 @show
