@@ -11,6 +11,10 @@
 |
 */
 
-Route::get('/', function () {
+//Route::any( '{catchallWithAuth}', function () {
+//    return view('auth.welcome');
+//} )->where('catchallWithAuth', '^(?!\/?(api|logowanie|rejestracja|haslo)\/?).*');
+
+Route::any( '{catchallWithAuth}', function () {
     return view('auth.welcome');
-});
+} )->where('catchallWithAuth', '^.*');
