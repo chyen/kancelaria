@@ -11,10 +11,23 @@
 |
 */
 
-//Route::any( '{catchallWithAuth}', function () {
-//    return view('auth.welcome');
-//} )->where('catchallWithAuth', '^(?!\/?(api|logowanie|rejestracja|haslo)\/?).*');
+Route::group(['namespace' => 'Auth'], function() {
+    Route::group(['prefix' => 'logowanie'], function() {
+        Route::get('/', 'AuthController@login');
+        Route::post('/', 'AuthController@postLogin');
+    });
+    Route::group(['prefix' => 'rejestracja'], function() {
+        Route::get('/', 'AuthController@registration');
+        Route::post('/', 'AuthController@postRegistration');
+    });
+    Route::group(['prefix' => 'reset-hasla'], function() {
+        Route::get('/', 'AuthController@resetPassword');
+        Route::post('/', 'AuthController@postResetPassword');
+    });
+});
 
-Route::any( '{catchallWithAuth}', function () {
+Route::get('dashboard', 'DashboardController@index');
+
+Route::any('{catchallWithAuth}', function () {
     return view('auth.welcome');
-} )->where('catchallWithAuth', '^.*');
+})->where('catchallWithAuth', '^.*');

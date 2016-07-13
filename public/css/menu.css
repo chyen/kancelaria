@@ -1,0 +1,25 @@
+.navbar-user-menu {
+    min-height: 0px;
+    height: 3.5em;
+    margin-bottom: 10px;
+    background-color: #3a6b4c;
+}
+.btn-profile {
+    float: right;
+    margin-top:0.5em;
+    margin-right: 0.5em;
+}
+
+.menu-list {
+    list-style-type: none;
+}
+
+.btn-menu {
+    width: 7em;
+    margin-top:0.5em;
+}
+
+.dropdown-menu-right {
+    margin-right: 0.5em;
+}
+
